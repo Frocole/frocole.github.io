@@ -6,9 +6,17 @@ Voor het beschikbaarstellen van informatie over Frocole en het beheer van cursus
 
 ![image](https://user-images.githubusercontent.com/1768983/158581038-e14b9e59-9b0d-4d1f-9627-fb80f63078b7.png)
 
+# Repositories
+
+The [Frocole App](https://github.com/Frocole/Frocole_App)
+
+The [Frocole Web Services](https://github.com/Frocole/Frocole_Services) 
+
+The [Frocole Drupal Module](https://github.com/Frocole/Frocole_Module)
+
 # Compileren van de Frocole App
 
-Om de Frocole_App te compileren voro iOS en Android is een installatie van Unity3D vereist, bij voorkeur een LTS versie als 2020.3.3f1 of 2020.3.16f1.
+Om de [Frocole_App](https://github.com/Frocole/Frocole_App) te compileren voro iOS en Android is een installatie van Unity3D vereist, bij voorkeur een LTS versie als 2020.3.3f1 of 2020.3.16f1.
 
 Aan het Frocole_App project moet in de Assets/Scripts folder een file worden toegevoegd met daarin de salt string voor het hashen van wachtwoorden en het aantal hashing iteraties (cost). Deze file moet de volgende code bevatten waarbij de string waarde '' en de integer aangepast dient te worden.
 
@@ -26,7 +34,7 @@ Als initiele scene moet '00_Persistent Data' gekozen worden waarna de app te tes
 
 # Database credentials voor de Frocole services.
 
-De connectie met de database die gebruikt wordt door de Frocole services kunnen in de config.inc gespecificeerd worden.
+De connectie met de database die gebruikt wordt door de [Frocole services](https://github.com/Frocole/Frocole_Services) kunnen in de config.inc gespecificeerd worden.
 
 De credentials en connectie details kunnen of hard gecodeerd worden in deze file of, veiliger, in bv een ini file (b.v. frocole_db.ini) buiten de webroot worden opgeslagen.
 
@@ -77,7 +85,7 @@ Let op: Relaties tussen de tabellen worden door de app en de services gedefiniee
 
 # Frocole module
 
-De Frocole module voor Drupal 9 moet staan in een /modules/custom folder. De frocole.install files staat aldus in de /modules/custom/frocole folder.
+De [Frocole Module](https://github.com/Frocole/Frocole_Module) voor Drupal 9 moet staan in een /modules/custom folder. De frocole.install files staat aldus in de /modules/custom/frocole folder.
 
 Om deze module te laten werken is het nodig om de database credentials van de Frocole Services Database op te nemen in de Drupal /sites/default/settings.php door toevoeging de volgende code, waarbij de waarden tussen accolades aangepast moeten worden.
 
