@@ -6,6 +6,7 @@ Add Frocole database credentials to Drupal"s /site/default/settings.php.
 
 Example:
 
+```
 $databases["frocole"]["default"] = array (
 "database" => "frocole",
 "username" => "<mysql user>",
@@ -16,6 +17,7 @@ $databases["frocole"]["default"] = array (
 "namespace" => "Drupal\\Core\\Database\\Driver\\mysql",
 "driver" => "mysql",
 );
+```
 
 # Use
 The list of Frocole courses is available in Drupal at /admin/frocole/index 
