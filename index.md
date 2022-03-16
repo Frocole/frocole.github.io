@@ -12,5 +12,5 @@ De FROCOLE app is ontwikkeld door de Open Universiteit, faculteit Onderwijsweten
 
 # Links
 
-- [Het Frocole Systeem](https://frocole.github.io/frocole_system.md)
-- [Frocole Beheer Module](https://frocole.github.io/frocole_module.md)
+- [Het Frocole Systeem](https://frocole.github.io/frocole_system)
+- [Frocole Beheer Module](https://frocole.github.io/frocole_module)
