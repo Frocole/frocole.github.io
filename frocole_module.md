@@ -27,12 +27,9 @@ Na activering van de module kunnen de Frocole Services beheerd worden via de /ad
 
 Als een cursus bekeken wordt, dan krijgt men ook een lijst van groepen en studenten binnen deze groepen van een cursus te zien. De ID's van de groepen dienen voor de export naar CSV formaat, compatibel met Microsoft Excel®.
 
-The View of a Course shows it"s definition and a list of attached groups and users in those groups. The groupID link of each group in this View page can be used to accessed the export of the group"s feedback items to a CSV file that can be used in Microsoft Excel®.
-
 # Opmerkingen
 
-- De frocole database bevat geen SQL relaties of restricties. Het verwijderen van een cursus verwijderd echter wel de groepen, gebruikers en gegeven feedback. De docent echter wordt niet verwijderd.
-
-- Het verwijderen van in gebruik zijnde segmenten zal problemen opleveren in de cursussen binnen dat sergment en de gebruikers in het segment.
-
+- De frocole database bevat geen SQL relaties of restricties. Het verwijderen van een cursus verwijderd echter wel de groepen, gebruikers en gegeven feedback. De docent echter wordt niet verwijderd (omdat die in een ander cursus actief zou kunnen zijn) 
+- Het is dus veiliger om afgelopen cursussen op inactief te zetten zodat ze niet meer zichtbaar zijn in de app.
+- Het verwijderen van in gebruik zijnde segmenten zal problemen opleveren zowel de cursussen als de gebruikers binnen dat sergment.
 - Bij het invoeren van de 3-10 performance lebals moeten deze gescheiden worden met 'forward slashes' (e.g. "/").
