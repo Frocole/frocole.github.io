@@ -24,7 +24,7 @@ Er worden aldus geen wachtwoorden leesbaar in de database opgeslagen of verzonde
 
 Als initiele scene moet '00_Persistent Data' gekozen worden waarna de app te testen is binnen de Unity3D ontwikkelomgeving en daarbuiten na een platform specifieke compilatie naar iOS en/of Android.
 
-#Database credentials voor de Frocole services.
+# Database credentials voor de Frocole services.
 
 De connectie met de database die gebruikt wordt door de Frocole services kunnen in de config.inc gespecificeerd worden.
 
