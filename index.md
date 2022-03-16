@@ -1,0 +1,1 @@
+Het Frocole systeem bestaat uit een tweetal Apps, voor iOS respectievelijk Android, die de studenten aspecten laat beoordelen van zowel hun groep alsmede de individuen binnen hun groep. Data van/voor deze Apps wordt opgeslagen m.b.v. de Frocole Services in een (my)SQL database.
