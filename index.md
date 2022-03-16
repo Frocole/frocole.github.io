@@ -9,3 +9,8 @@ De FROCOLE-app heeft twee diagrammen. Het eerste radar diagram visualiseert de f
 Het tweede radar diagram visualiseert de feedback op de groep als geheel. Hier krijgt u de gemiddelde beoordeling te zien van hoe uw groepsgenoten de groep hebben beoordeeld. Tijdens de regelmatige groepsoverleggen kunt u ingaan op hoe de groep als geheel functioneert bij de uitvoering van de groepsopdracht.
 
 De FROCOLE app is ontwikkeld door de Open Universiteit, faculteit Onderwijswetenschappen en medegefinancierd door SURF. Het ontwikkelteam bestond uit Karel Kreijns, Maartje Henderikx, Wim van der Vegt De vormgeving en ontwikkeling van de app zijn uitgevoerd door Jaak Crasborn en Gijs Bazelmans van Crasborn Communicatie Vormgevers en XR-Group.
+
+# Links
+
+- [Het Frocole Systeem](https://frocole.github.io/frocole_system.md)
+- [Frocole Beheer Module](https://frocole.github.io/frocole_module.md)
