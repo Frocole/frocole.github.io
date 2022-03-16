@@ -6,7 +6,7 @@ Voor het beschikbaarstellen van informatie over Frocole en het beheer van cursus
 
 ![image](https://user-images.githubusercontent.com/1768983/158581038-e14b9e59-9b0d-4d1f-9627-fb80f63078b7.png)
 
-#Compileren van de Frocole App
+# Compileren van de Frocole App
 
 Om de Frocole_App te compileren voro iOS en Android is een installatie van Unity3D vereist, bij voorkeur een LTS versie als 2020.3.3f1 of 2020.3.16f1.
 
@@ -57,7 +57,7 @@ $conn = new mysqli(
    ); // ENTER Credentials and other MySql info here
 ```   
    
-#Database creatie.
+# Database creatie.
 
 Om de tabellen in de Frocle mysql database aan te maken is het voldoende om het mysql script frocole.sql uit te voeren in mysql of mariadb. Dit script creeert een utf8mb4 database met de naam 'frocole'.
 
@@ -75,7 +75,7 @@ De schema van de database ziet er als volgt uit:
 
 Let op: Relaties tussen de tabellen worden door de app en de services gedefinieerd, er worden dus geen SQL relaties in de database gebruikt.
 
-#Frocole module
+# Frocole module
 
 De Frocole module voor Drupal 9 moet staan in een /modules/custom folder. De frocole.install files staat aldus in de /modules/custom/frocole folder.
 
