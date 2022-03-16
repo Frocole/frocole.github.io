@@ -12,6 +12,10 @@ Voor het beschikbaarstellen van informatie over Frocole en het beheer van cursus
 - [Frocole Web Services](https://github.com/Frocole/Frocole_Services)
 - [Frocole Drupal Module](https://github.com/Frocole/Frocole_Module)
 
+# Links
+
+- [Over Frocole](https://frocole.github.io/frocole)
+
 # Compileren van de Frocole App
 
 Om de [Frocole_App](https://github.com/Frocole/Frocole_App) te compileren voro iOS en Android is een installatie van Unity3D vereist, bij voorkeur een LTS versie als 2020.3.3f1 of 2020.3.16f1.
