@@ -8,11 +8,9 @@ Voor het beschikbaarstellen van informatie over Frocole en het beheer van cursus
 
 # Repositories
 
-The [Frocole App](https://github.com/Frocole/Frocole_App)
-
-The [Frocole Web Services](https://github.com/Frocole/Frocole_Services) 
-
-The [Frocole Drupal Module](https://github.com/Frocole/Frocole_Module)
+- [Frocole App](https://github.com/Frocole/Frocole_App)
+- [Frocole Web Services](https://github.com/Frocole/Frocole_Services)
+- [Frocole Drupal Module](https://github.com/Frocole/Frocole_Module)
 
 # Compileren van de Frocole App
 
