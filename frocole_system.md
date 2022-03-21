@@ -11,3 +11,5 @@ Voor het beschikbaarstellen van informatie over Frocole en het beheer van cursus
 - [Frocole App](https://github.com/Frocole/Frocole_App)
 - [Frocole Web Services](https://github.com/Frocole/Frocole_Services)
 - [Frocole Drupal Module](https://github.com/Frocole/Frocole_Module)
+
+[^1]: Drupal is a registered trademark of Dries Buytaert.
