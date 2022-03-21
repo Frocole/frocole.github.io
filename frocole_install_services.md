@@ -23,7 +23,8 @@ De diverse waarden moeten gelijk zijn als datgene wat aan Drupal’s 'settings.p
 
 In de 'config.inc' file kan de variabele $develop op false gezet worden waardoor de beveiliging wordt aangescherpt (i.e. geen PHP foutmeldingen in de browser, geen 'phpinfo()' functie en onderdrukken van het PHP versie nummer in http headers). Verder zijn de meeste webservices alleen via POST te gebruiken. Dit wordt in de '.htaccess' file afgedwongen.
 
-Hierna kan de database connectie getest worden door het oproepen van de pagina’s '/frocole/CheckIfServerExists.php' en '/frocole/CheckIfDatabaseExists.php' in een webbrowser.
+Hierna kan de database connectie getest worden door het oproepen van de pagina’s '/frocole/CheckIfServerExists.php' en '/frocole/CheckIfDatabaseExists.php' in een webbrowser [^3].
 
 [^1]: Een alternatief voor unzippen en kopiëren is rechtstreeks git te gebruiken voor deployment vanuit de GitHub repository. Dit kan vanaf de command line, als de huidige folder de web root is, met het git commando: 'git clone https://github.com/Frocole/Frocole_Services.git frocole'.
-[^2]: De frocole database bevat geen SQL relaties of restricties.
+[^2]: Dit kan met een commando: 'mysql –u{mysql username} –p{mysql password} –h{mysql host} –P{mysql port} frocole < {*.sql bestandnaam}'.
+[^3]: De frocole database bevat geen SQL relaties of restricties.
