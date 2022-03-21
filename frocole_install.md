@@ -1,4 +1,4 @@
-# Server installatie
+# Frocole Server installatie
 
 De Frocole server software bestaat uit de volgende 3 onderdelen:
 
