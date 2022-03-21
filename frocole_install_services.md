@@ -4,7 +4,7 @@ De Frocole App communiceert met de server doormiddel van een set PHP web service
 
 De Frocole services kunnen eenvoudig geïnstalleerd worden door de files te kopiëren in een separate folder op de webserver (b.v. '/frocole/') [^1].
 
-De volgende stap is om de database te creëren met een tool als PhpMyAdmin en daarin de SQL-commando’s te importeren en uit te voeren [^2]. Belangrijk is dat de database 'utf8mb4_general_ci' gebruikt i.p.v. 'latin1' als karakter set.
+De volgende stap is om de database te creëren met een tool als PhpMyAdmin en daarin de SQL-commando’s uit 'frocole.sql' te importeren en uit te voeren [^2]. Belangrijk is dat de database 'utf8mb4_general_ci' gebruikt i.p.v. 'latin1' als karakter set.
 
 Daarna is de volgende stap om de database inlog gegevens te definiëren. Standaard gebruikt Frocole services een 'config.inc' file die een 'frocole_db.ini' file leest die net buiten de web root staat. In deze laatste file staan de inlog gegevens van de MySQL database.
 
