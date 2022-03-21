@@ -29,6 +29,7 @@ In de 'config.inc' file kan de variabele $develop op false gezet worden waardoor
 
 Hierna kan de database connectie getest worden door het oproepen van de pagina’s '/frocole/CheckIfServerExists.php' en '/frocole/CheckIfDatabaseExists.php' in een webbrowser [^5].
 
+## Voetnoten:
 [^1]: Een alternatief voor unzippen en kopiëren is rechtstreeks git te gebruiken voor deployment vanuit de GitHub repository. Dit kan vanaf de command line, als de huidige folder de web root is, met het git commando: 'git clone https://github.com/Frocole/Frocole_Services.git frocole'.
 [^2]: Indien een andere database naam dan 'frocole' gewenst is, moet dit zowel in het bovenstaande commando als in het sql bestand aangepast worden (zie de regels 20 tot 24).
 [^3]: Dit kan met een commando: 'mysql –u{mysql username} –p{mysql password} –h{mysql host} –P{mysql port} frocole < {*.sql bestandnaam}'.
