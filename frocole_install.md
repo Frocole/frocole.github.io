@@ -10,3 +10,8 @@ Voordat de Drupal beheer module geïnstalleerd en geactiveerd kan worden in Drup
 Daarna kan Drupal 9 geïnstalleerd worden en een link met de separate Frocole database. 
 Als laatste kan dan de Frocole beheer module geïnstalleerd en geactiveerd worden.
 
+# Links
+
+- [Frocole Services Installatie](https://frocole.github.io/frocole_install_services)
+- [Frocole Drupal 9 Installatie](https://frocole.github.io/frocole_install_drupal)
+- [Frocole Installatie Drupal 9 beheermodule](https://frocole.github.io/frocole_install_module)
