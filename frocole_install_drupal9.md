@@ -6,4 +6,5 @@ Rechtstreekse toegang tot de Frocole database (b.v. via een separate MySQL datab
 
 Voor de omgevingseisen en installatie procedure van Drupal 9 wordt verwezen naar de [Drupal](https://www.drupal.org) website.
 
+## Voetnoten:
 [^1]: Drupal is a registered trademark of Dries Buytaert.
