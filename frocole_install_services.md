@@ -22,7 +22,7 @@ Deze 'frocole_db.ini' file heeft het volgende formaat:
     username = <mysql user>
     password = <mysql user>
 ```
-
+ 
 De diverse waarden moeten gelijk zijn als datgene wat aan Drupal’s 'settings.php' toegevoegd worden als deel van de installatie van de Frocole beheer module.
 
 In de 'config.inc' file kan de variabele $develop op false gezet worden waardoor de beveiliging wordt aangescherpt (i.e. geen PHP foutmeldingen in de browser, geen 'phpinfo()' functie en onderdrukken van het PHP versie nummer in http headers). Verder zijn de meeste webservices alleen via POST te gebruiken. Dit wordt in de '.htaccess' file afgedwongen.
