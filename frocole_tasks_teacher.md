@@ -1,4 +1,4 @@
-# Handleiding docent
+# Taken docent
 
 De werkzaamheden van de docent omvat volgende taken:
 
