@@ -266,7 +266,6 @@ COMMIT;
 --
 -- Dumping data for table `segments`
 --
-
 INSERT INTO `segments` (`SegmentID`, `SegmentName`) VALUES (1, '');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
