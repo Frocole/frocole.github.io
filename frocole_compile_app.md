@@ -14,4 +14,4 @@ public class EncryptionKey
 
 Er worden aldus geen leesbare wachtwoorden in de database opgeslagen of verzonden door de app naar de server. Alle wachtwoorden zijn salted en hashed vorm opgeslagen.
 
-Als initiele scene moet '00_Persistent Data' gekozen worden waarna de app te testen is binnen de Unity3D ontwikkelomgeving en daarbuiten na een platform specifieke compilatie naar iOS en/of Android.
+Als initiele scene moet '00_Persistent Data' gekozen worden waarna de app te testen is binnen de Unity3D ontwikkelomgeving en daarbuiten na een platform specifieke compilatie naar iOS en/of Android. De app kan ook gecompileerd worden op Desktop systemen als Microsoft Windows of direct in de Unity3D IDE.
