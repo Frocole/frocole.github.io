@@ -17,3 +17,4 @@ Als laatste kan dan de Frocole beheer module geïnstalleerd en geactiveerd worde
 - [Frocole Services Installatie](https://frocole.github.io/frocole_install_services)
 - [Frocole Drupal 9 Installatie](https://frocole.github.io/frocole_install_drupal9)
 - [Frocole Drupal 9 Beheermodule Installatie](https://frocole.github.io/frocole_install_module)
+- [Compileren App](frocole_compile_app)
