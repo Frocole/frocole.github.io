@@ -25,7 +25,7 @@
 ```
 - Workaround voor de 'Geen server' foutmelding in het account scherm van de eerst versie van de app
 ```
-    De eerste versie van de app geeft een foutmelding als men (voor het eerst) een account probeerd te creeeren.
+    De eerste versie van de app geeft een foutmelding als men (voor het eerst) een account probeert aan te maken.
     Een workaround is om in het login scherm de server in te geven maar verder niet in te loggen maar terug 
     te keren naar het account scherm om daar verder te gaan met het creeeren van het account met gebruikmaking van de zelfde server URL.
 ```
