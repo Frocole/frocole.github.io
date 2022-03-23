@@ -6,7 +6,7 @@
     Als resultaat is het hierdoor niet nogelijk om via de app het wachtwoord de resetten.
     Beide apps hebben geen email adres nodig.    
 ```
-- Frocole software licentie: GPL-3.0 licentie [(full text)](https://github.com/Frocole/frocole.github.io/blob/main/LICENSE)
+- Frocole software licentie: [GPL-3.0 licentie](https://github.com/Frocole/frocole.github.io/blob/main/LICENSE)
 ```
     Feedback and Reflection in Online Collaborative Learning.
     Copyright (C) 2021 Open University of the Netherlands
