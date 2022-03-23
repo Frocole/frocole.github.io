@@ -32,7 +32,7 @@ Data kan per groep worden geëxporteerd worden in ‘comma separated values’ (
 - Docenten echter worden niet verwijderd bij het verwijderen van een cursus omdat zij in een ander cursus actief zou kunnen zijn als docent of student.
 - Het is dus veiliger om afgelopen cursussen op inactief te zetten zodat ze niet meer zichtbaar zijn in de app.
 - Het verwijderen van in gebruik zijnde segmenten zal problemen opleveren zowel de cursussen als de gebruikers binnen dat sergment.
-- Bij het invoeren van de 3-10 performance lebals moeten deze gescheiden worden met 'forward slashes' (e.g. "/").
+- Bij het invoeren van de 3-10 performance labels moeten deze gescheiden worden met 'forward slashes' (e.g. "/").
 
 ## Voetnoten:
 [^1]: Voor toegang tot de beheerpagina's moet een Drupal gebruiker de rol 'Frocole beheerder' hebben.
