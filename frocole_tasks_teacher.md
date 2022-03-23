@@ -1,6 +1,6 @@
 # Taken docent
 
-De werkzaamheden van de docent omvat volgende taken:
+De werkzaamheden van de docent omvatten de volgende taken:
 
 In samenspraak met een Frocole beheerder:
 
