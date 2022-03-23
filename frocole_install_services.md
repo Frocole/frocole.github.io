@@ -10,7 +10,7 @@ De schema van de database[^4] ziet er als volgt uit:
 
 ![image](https://user-images.githubusercontent.com/1768983/158581828-458b9e97-6100-4049-a242-f5051a3e11aa.png)
 
-Daarna is de volgende stap om de database inlog gegevens te definiëren. Standaard gebruikt Frocole services een '[config.inc](config.inc)' file die een 'frocole_db.ini' file leest die net buiten de web root staat. In deze laatste file staan de inlog gegevens van de MySQL database.
+Daarna is de volgende stap om de database inlog gegevens te definiëren. Standaard gebruikt Frocole services een '[config.inc](https://github.com/Frocole/Frocole_Services/blob/master/config.inc)' file die een 'frocole_db.ini' file leest die net buiten de web root staat. In deze laatste file staan de inlog gegevens van de MySQL database.
 
 Deze 'frocole_db.ini' file heeft het volgende formaat:
 
