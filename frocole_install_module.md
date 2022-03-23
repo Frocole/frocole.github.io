@@ -5,7 +5,7 @@ De Frocole beheer module voor Drupal 9 moet staan in een /modules/custom folder.
 
 Installation omvat 3 stappen:
 
-- Download en kopieer de sources van de module in de /modules/custom/frocole folder (Hiermee komt het frocole.install bestand in de /modules/custom/frocole folder te staan) [^2].
+- Download en kopieer de sources van de [beheer module](https://github.com/Frocole/Frocole_Module) in de /modules/custom/frocole folder (Hiermee komt het frocole.install bestand in de /modules/custom/frocole folder te staan) [^2].
 - Bewerk de Drupal 9 config file ( /sites/default/settings.php ) en voeg de volgende PHP code toe:
 ```
     $databases["frocole"]["default"] = array (
