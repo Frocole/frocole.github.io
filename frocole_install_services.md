@@ -34,4 +34,4 @@ Hierna kan de database connectie getest worden door het oproepen van de pagina�
 [^2]: Indien een andere database naam dan 'frocole' gewenst is, moet dit zowel in het bovenstaande commando als in het sql bestand aangepast worden (zie de regels 20 tot 24).
 [^3]: Dit kan met een commando: 'mysql –u{mysql username} –p{mysql password} –h{mysql host} –P{mysql port} frocole < {*.sql bestandnaam}'.
 [^4]: Relaties tussen de tabellen worden door de app en de services gedefinieerd, er worden dus geen SQL relaties in de database gebruikt.
-[^5]: De frocole database bevat geen SQL relaties of restricties.
+[^5]: Dit kan inhouden dat men tijdelijk het <LimitExcept POST> configuratie blok in de /frocole/.htaccess moet disabelen of de .htaccess file renamen.
