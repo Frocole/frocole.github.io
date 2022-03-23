@@ -1,6 +1,6 @@
 # Taken Beheerder
 
-De taken van de beheerder omvatten de volgende activiteiten:
+De wekrzaamheden van de beheerder omvatten de volgende taken:
 
 - Aanmaken en verwijderen van cursussen.
 - De taak van de docent (vooraf) een eigen account aan te maken en de benodigde performance indicatoren aan te leveren.
