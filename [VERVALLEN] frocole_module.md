@@ -1,5 +1,3 @@
-[VERVALLEN]
-
 # Frocole Drupal 9 Module
 
 # Setup
