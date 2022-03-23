@@ -26,7 +26,7 @@ Data kan per groep worden geëxporteerd worden in ‘comma separated values’ (
 
 ![image](https://user-images.githubusercontent.com/1768983/159274637-44916274-60b4-4b33-8098-4895cfb62ac1.png)
 
-## Opmerkingen
+## Opmerkingen:
 - De frocole database bevat geen SQL relaties of restricties.
 - Het verwijderen van een cursus verwijderd echter wel de bijbehorende groepen, gebruikers en gegeven feedback.
 - Docenten echter worden niet verwijderd bij het verwijderen van een cursus omdat zij in een ander cursus actief zou kunnen zijn als docent of student.
@@ -34,5 +34,6 @@ Data kan per groep worden geëxporteerd worden in ‘comma separated values’ (
 - Het verwijderen van in gebruik zijnde segmenten zal problemen opleveren zowel de cursussen als de gebruikers binnen dat sergment.
 - Bij het invoeren van de 3-10 performance lebals moeten deze gescheiden worden met 'forward slashes' (e.g. "/").
 
+## Voetnoten:
 [^1]: Voor toegang tot de beheerpagina's moet een Drupal gebruiker de rol 'Frocole beheerder' hebben.
 [^2]: Let er bij verwijderen van segmenten, cursussen en informatie teksten op dat deze niet meer in gebruik zijn. Het verwijderen van een cursus verwijderd ook alle groepen, studenten en door hun gegeven feedback. Het kan daarom beter zijn om een cursus te deactiveren, waardoor deze onzichtbaar wordt voor gebruikers van de apps.
