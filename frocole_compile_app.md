@@ -2,7 +2,7 @@
 
 Om de [Frocole_App](https://github.com/Frocole/Frocole_App) te compileren voor iOS en Android is een installatie van Unity3D vereist, bij voorkeur een LTS[^1] versie als 2020.3.3f1 of 2020.3.16f1.
 
-Aan het [Frocole_App](https://github.com/Frocole/Frocole_App) project moet in de Assets/Scripts folder een file worden toegevoegd met daarin de salt string voor het hashen van wachtwoorden en het aantal hashing iteraties (cost). Deze file moet de volgende code bevatten waarbij de Sees string waarde en de Costs integer aangepast dient te worden.
+Aan het [Frocole_App](https://github.com/Frocole/Frocole_App) project moet in de Assets/Scripts folder een file worden toegevoegd met daarin de salt string voor het hashen van wachtwoorden en het aantal hashing iteraties (cost). Deze file moet de volgende code bevatten waarbij de Seed string waarde en de Costs integer aangepast dient te worden.
 
 ```
 public class EncryptionKey
