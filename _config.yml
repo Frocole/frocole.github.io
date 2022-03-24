@@ -16,3 +16,4 @@ defaultLang: nl
 languageNames:
   nl: Dutch
   en: English
+default_locale_in_subfolder: true
