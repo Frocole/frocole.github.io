@@ -1,6 +1,6 @@
 - [Start](index)
   - [Het Frocole Systeem](frocole_system)
-  - [Frcole Installatie](frocole_install)
+  - [Frocole Installatie](frocole_install)
     - [Frocole Services Installatie](frocole_install_services)
     - [Frocole Drupal 9 Installatie](frocole_install_drupal9)
     - [Frocole Drupal 9 Beheermodule Installatie](frocole_install_module)
