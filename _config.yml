@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Frocole
 description: Frocole Documentation
 
-baseurl: ""
+baseurl: "https://frocole.github.io/"
 permalink: /:title/
 
 # Plugins
