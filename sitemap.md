@@ -1,4 +1,4 @@
-- [home](index)
+- [Start](index)
   - [Het Frocole Systeem](frocole_system)
   - [Frcole Installatie](frocole_install)
     - [Frocole Services Installatie](frocole_install_services)
