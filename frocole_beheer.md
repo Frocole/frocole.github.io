@@ -34,6 +34,11 @@ Data kan per groep worden geëxporteerd worden in ‘comma separated values’ (
 - Het verwijderen van in gebruik zijnde segmenten zal problemen opleveren zowel de cursussen als de gebruikers binnen dat sergment.
 - Bij het invoeren van de 3-10 performance labels moeten deze gescheiden worden met 'forward slashes' (e.g. "/").
 
+## Links
+
+- [Taken Beheerder](frocole_tasks_administrator)
+- [Taken Docent](frocole_tasks_teacher)
+- 
 ## Voetnoten:
 [^1]: Voor toegang tot de beheerpagina's moet een Drupal gebruiker de rol 'Frocole beheerder' hebben.
 [^2]: Let er bij verwijderen van segmenten, cursussen en informatie teksten op dat deze niet meer in gebruik zijn. Het verwijderen van een cursus verwijderd ook alle groepen, studenten en door hun gegeven feedback. Het kan daarom beter zijn om een cursus te deactiveren, waardoor deze onzichtbaar wordt voor gebruikers van de apps.
