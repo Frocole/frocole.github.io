@@ -8,6 +8,7 @@ permalink: /:title/
 # Plugins
 plugins:
   - jekyll-multiple-languages-plugin
+  - jekyll-include-cache
 
 # jekyll-multiple-languages-plugin settings:
 languages: ["en", "nl"]
