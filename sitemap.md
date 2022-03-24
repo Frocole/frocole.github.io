@@ -10,4 +10,4 @@
   - [Compileren Frocole App](frocole_compile_app)
   - [Frocole FAQ](frocole_faq)
   - [Frocole Referenties](frocole_references)
-- [Licentie](LICENSE)
+- [Licentie](LICENSE.md)
