@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: Frocole
 description: Frocole Documentation
+plugins:
+  - jekyll-multiple-languages-plugin
 languages: ["en", "nl"]
 defaultLang: nl
 languageNames:
