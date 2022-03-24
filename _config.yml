@@ -1,9 +1,17 @@
 theme: jekyll-theme-cayman
 title: Frocole
 description: Frocole Documentation
+
+baseurl: ""
+permalink: /:title/
+
+# Plugins
 plugins:
   - jekyll-multiple-languages-plugin
+
+# jekyll-multiple-languages-plugin settings:
 languages: ["en", "nl"]
+exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
 defaultLang: nl
 languageNames:
   nl: Dutch
