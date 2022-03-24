@@ -7,9 +7,9 @@ permalink: /:title/
 
 # Plugins
 plugins:
-  - jekyll-multiple-languages-plugin
-  - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-multiple-languages-plugin
+#  - jekyll-paginate
+#  - jekyll-sitemap
 # - jekyll-include-cache
 
 # jekyll-multiple-languages-plugin settings:
