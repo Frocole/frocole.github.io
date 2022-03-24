@@ -7,7 +7,7 @@
   - [Frocole Beheer](frocole_beheer)
     - [Taken Beheerder](frocole_tasks_administrator)
     - [Taken Docent](frocole_tasks_teacher)
-  - [Compileren Frocole App](frocole_compile)
+  - [Compileren Frocole App](frocole_compile_app)
   - [Frocole FAQ](frocole_faq)
   - [Frocole Referenties](frocole_references)
 - [Licentie](LICENSE)
