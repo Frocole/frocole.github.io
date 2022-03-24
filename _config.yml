@@ -1,17 +1,13 @@
-
-# Plugins
-plugins:
-  - jekyll-multiple-languages-plugin
-#  - jekyll-paginate
-#  - jekyll-sitemap
-# - jekyll-include-cache
-
 theme: jekyll-theme-cayman
 title: Frocole
 description: Frocole Documentation
 
 url: "https://frocole.github.io/"
 permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-multiple-languages-plugin
 
 # jekyll-multiple-languages-plugin settings:
 languages: ["en", "nl"]
