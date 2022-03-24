@@ -1,11 +1,11 @@
 site:
-  name: Meine Beispiel-Webseite
-  tagline: Mit gutem Beispiel voran!
+  name: Voorbeeld Website
+  tagline: Goede voorbeelden vooraan!
   description: Diese Beispiel-Webseite wird Sie begeistern!
-  keywords: Beispiel, Webseite, toll
+  keywords: Voorbeeld, Website, Gaaf
   
 main:
   welcomeSection:
-    anchor: willkommen
-    heading: Willkommen auf dieser tollen Webseite!
+    anchor: welkom
+    heading: Welkom op deze website!
     p1: Hunderttausende Menschen sind von dieser Seite begeistert. Sie auch?
