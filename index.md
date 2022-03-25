@@ -1,4 +1,4 @@
-[en](\en\index) | [nl](index)
+[en](\en\index) | [nl](\index)
 
 # Over Frocole
 
@@ -14,10 +14,10 @@ De FROCOLE app is ontwikkeld door de Open Universiteit, faculteit Onderwijsweten
 
 # Links
 
-- [Het Frocole Systeem](frocole_system)
-- [Frocole Installatie](frocole_install)
-- [Frocole Beheer](frocole_beheer)
-- [Compileren Frocole App](frocole_compile_app)
-- [Frocole FAQ](frocole_faq)
-- [Frocole Referenties](frocole_references)
-- [Sitemap](sitemap)
+- [Het Frocole Systeem](\nl\frocole_system)
+- [Frocole Installatie](\nl\frocole_install)
+- [Frocole Beheer](\nl\frocole_beheer)
+- [Compileren Frocole App](\nl\frocole_compile_app)
+- [Frocole FAQ](\nl\frocole_faq)
+- [Frocole Referenties](\nl\frocole_references)
+- [Sitemap](\nl\sitemap)
