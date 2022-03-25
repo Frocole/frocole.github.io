@@ -2,7 +2,7 @@
 
 # Sitemap
 
-- [Frocole](\index)
+- [Frocole](\)
   - [Het Frocole Systeem](\nl\frocole_system)
   - [Frocole Installatie](\nl\frocole_install)
     - [Frocole Services Installatie](\nl\frocole_install_services)
