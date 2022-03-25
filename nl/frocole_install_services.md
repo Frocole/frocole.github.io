@@ -1,4 +1,4 @@
-[en](\en\frocole_install_services) | [nl](\nl\frocole_install_services) | [nl](\nl\sitemap)
+[en](\en\frocole_install_services) | [nl](\nl\frocole_install_services) | [sitemap](\nl\sitemap)
 
 # Installatie Frocole services
 

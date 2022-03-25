@@ -1,4 +1,4 @@
-[en](\en\frocole_tasks_teacher) | [nl](\nl\frocole_tasks_teacher) | [nl](\nl\sitemap)
+[en](\en\frocole_tasks_teacher) | [nl](\nl\frocole_tasks_teacher) | [sitemap](\nl\sitemap)
 
 # Taken docent
 

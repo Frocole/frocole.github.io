@@ -1,4 +1,4 @@
-[en](\en\frocole_system) | [nl](\nl\frocole_system) | [nl](\nl\sitemap)
+[en](\en\frocole_system) | [nl](\nl\frocole_system) | [sitemap](\nl\sitemap)
 
 # Frocole Systeem
 
