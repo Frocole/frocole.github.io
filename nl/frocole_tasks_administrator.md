@@ -1,4 +1,4 @@
-[en](\en\frocole_tasks_administrator) | [nl](\nl\frocole_tasks_administrator)
+[en](\en\frocole_tasks_administrator) | [nl](\nl\frocole_tasks_administrator) | [nl](\nl\sitemap)
 
 # Taken Beheerder
 

@@ -1,4 +1,4 @@
-[en](\en\frocole_install) | [nl](\nl\frocole_install)
+[en](\en\frocole_install) | [nl](\nl\frocole_install) | [nl](\nl\sitemap)
 
 # Frocole Server installatie
 
