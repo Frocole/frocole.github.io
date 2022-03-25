@@ -1,6 +1,6 @@
 [en](\en\about) | [nl](\nl\about)
 
-# ABOUT
+# About Frocole
 
 TODO
 

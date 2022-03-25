@@ -1,6 +1,6 @@
 [en](\en\index) | [nl](\index) | [sitemap](\nl\sitemap)
 
-# Over Frocole
+# Frocole
 
 Om samenwerkend leren te ondersteunen is deze tool ontwikkeld: de feedback en reflectie tool met de naam FROCOLE; FROCOLE staat voor Feedback en Reflectie in Online Collaboratief Leren.
 
