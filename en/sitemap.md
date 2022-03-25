@@ -13,5 +13,5 @@
     - [Taken Docent](\en\frocole_tasks_teacher)
   - [Compileren Frocole App](\en\frocole_compile_app)
   - [Frocole FAQ](\en\frocole_faq)
-  - [Frocole Referenties](\en\frocole_references)
+  - [Frocole Referenties](\frocole_references)
 - [Licentie](\LICENSE.md)
