@@ -15,3 +15,6 @@
   - [Frocole FAQ](\nl\frocole_faq)
   - [Frocole Referenties](\frocole_references)
 - [Licentie](\LICENSE.md)
+
+
+@@include[about.md](\about.md)
