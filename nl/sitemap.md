@@ -14,4 +14,4 @@
   - [Compileren Frocole App](\nl\frocole_compile_app)
   - [Frocole FAQ](\nl\frocole_faq)
   - [Frocole Referenties](\frocole_references)
-- [Licentie](\LICENSE.md)
+- [GPL-3.0 licentie](\LICENSE.md)
