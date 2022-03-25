@@ -1,3 +1,3 @@
-[en](\en\index) | [nl](index)
+[en](\en\index) | [nl](\index)
 
 TODO
