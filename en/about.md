@@ -1,1 +1,6 @@
-We are a wonderful team of crazy visionaries.
+[en](\en\about) | [nl](\nl\about)
+
+# ABOUT
+
+TODO
+

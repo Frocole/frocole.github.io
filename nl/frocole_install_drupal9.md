@@ -1,3 +1,5 @@
+[en](\en\frocole_install_drupal9) | [nl](\nl\frocole_install_drupal9)
+
 # Installatie Drupal 9[^1]
 
 Frocole gebruikt een kale Drupal® v9.2.x installatie voor het aanbieden van de beheeromgeving van Frocole. 

@@ -1,3 +1,5 @@
+[en](\en\frocole_faq) | [nl](\nl\frocole_faq)
+
 # FAQ
 
 - AVG & Privacy 

@@ -1,3 +1,5 @@
+[en](\en\frocole_tasks_teacher) | [nl](\nl\frocole_tasks_teacher)
+
 # Taken docent
 
 De werkzaamheden van de docent omvatten de volgende taken:

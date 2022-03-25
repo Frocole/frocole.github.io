@@ -1,3 +1,5 @@
+[en](\en\frocole_install_services) | [nl](\nl\frocole_install_services)
+
 # Installatie Frocole services
 
 De Frocole App communiceert met de server doormiddel van een set PHP web services die in een separate folder zijn ondergebracht. Hiernaast is er een Drupal 9 gebaseerde beheer omgeving voor o.a. het aanmaken van cursussen.

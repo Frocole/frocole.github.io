@@ -1,3 +1,5 @@
+[en](\en\frocole_tasks_administrator) | [nl](\nl\frocole_tasks_administrator)
+
 # Taken Beheerder
 
 De wekrzaamheden van de beheerder omvatten de volgende taken:

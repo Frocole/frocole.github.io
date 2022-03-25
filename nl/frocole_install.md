@@ -1,3 +1,5 @@
+[en](\en\frocole_install) | [nl](\nl\frocole_install)
+
 # Frocole Server installatie
 
 De Frocole server software bestaat uit de volgende 3 onderdelen:

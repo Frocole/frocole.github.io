@@ -1,3 +1,5 @@
+[en](\en\frocole_install_module) | [nl](\nl\frocole_install_module)
+
 # Installatie Frocole beheer module voor Drupal 9[^1]
 
 De Frocole beheer module is getest met Drupal 9.2.x maar zou compatible moeten zijn met zowel Drupal 9.3.x en Drupal 8.

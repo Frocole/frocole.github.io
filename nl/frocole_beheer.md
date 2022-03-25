@@ -1,3 +1,5 @@
+[en](\en\frocole_beheer) | [nl](\nl\frocole_beheer)
+
 # Beheer en gebruik
 
 Frocole is te beheren via de /admin/frocole/index URL [^1].

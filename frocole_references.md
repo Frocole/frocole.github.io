@@ -1,3 +1,5 @@
+[en](\frocole_references) | [nl](\frocole_references)
+
 # Referenties
 
 - Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. The International Review of Research in Open and Distance Learning, 4(2). https://doi.org/10.19173/irrodl.v4i2.149

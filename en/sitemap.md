@@ -1,3 +1,5 @@
+[en](\en\sitemap) | [nl](\sitemap)
+
 - [Start](index)
   - [Het Frocole Systeem](frocole_system)
   - [Frocole Installatie](frocole_install)
