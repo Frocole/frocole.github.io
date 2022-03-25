@@ -1,4 +1,4 @@
-[en](\en\sitemap) | [nl](\sitemap)
+[en](\en\sitemap) | [nl](\nl\sitemap)
 
 # Sitemap
 
