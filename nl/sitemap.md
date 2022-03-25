@@ -2,7 +2,7 @@
 
 # Sitemap
 
-- [Start](index)
+- [Start](\index)
   - [Het Frocole Systeem](\nl\frocole_system)
   - [Frocole Installatie](\nl\frocole_install)
     - [Frocole Services Installatie](\nl\frocole_install_services)
@@ -14,4 +14,4 @@
   - [Compileren Frocole App](\nl\frocole_compile_app)
   - [Frocole FAQ](\nl\frocole_faq)
   - [Frocole Referenties](\nl\frocole_references)
-- [Licentie](\nl\LICENSE.md)
+- [Licentie](\LICENSE.md)
