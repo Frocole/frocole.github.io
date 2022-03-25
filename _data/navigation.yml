@@ -1,7 +1,13 @@
 languages:
-- language: "en" links
-- title: "About" url: /about/
-- title: "nl" url: /nl/ 
-- language: "nl" links
-- title: "Over" url: /over/
-- title: "en" url: /en/ 
+  - language: en
+    links:
+      - title: About
+        url: /about/
+      - title: nl
+        url: /nl/
+  - language: nl
+    links:
+      - title: Over
+        url: /over/
+      - title: en
+        url: /en/
