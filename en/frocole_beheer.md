@@ -1,4 +1,4 @@
-[en](\en\frocole_beheer) | [nl](\nl\frocole_beheer) | [sitemap](\en\sitemap)
+[en](/en/frocole_beheer) | [nl](/nl/frocole_beheer) | [sitemap](/en/sitemap)
 
 # Administration and usage
 

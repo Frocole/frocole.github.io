@@ -1,4 +1,4 @@
-[en](\en\frocole_faq) | [nl](\nl\frocole_faq) | [sitemap](\nl\sitemap)
+[en](/en/frocole_faq) | [nl](/nl/frocole_faq) | [sitemap](/nl/sitemap)
 
 # FAQ
 

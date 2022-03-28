@@ -1,4 +1,4 @@
-[en](\en\frocole_beheer) | [nl](\nl\frocole_beheer) | [sitemap](\nl\sitemap)
+[en](/en/frocole_beheer) | [nl](/nl/frocole_beheer) | [sitemap](/nl/sitemap)
 
 # Beheer en gebruik
 
@@ -40,8 +40,8 @@ Data kan per groep worden geëxporteerd worden in ‘comma separated values’ (
 
 ## Links
 
-- [Taken Beheerder](\nl\frocole_tasks_administrator)
-- [Taken Docent](\nl\frocole_tasks_teacher)
+- [Taken Beheerder](/nl/frocole_tasks_administrator)
+- [Taken Docent](/nl/frocole_tasks_teacher)
 - 
 ## Voetnoten:
 [^1]: Voor toegang tot de beheerpagina's moet een Drupal gebruiker de rol 'Frocole beheerder' hebben.

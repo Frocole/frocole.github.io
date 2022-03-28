@@ -1,4 +1,4 @@
-[en](\en\frocole_install_module) | [nl](\nl\frocole_install_module) | [sitemap](\nl\sitemap)
+[en](/en/frocole_install_module) | [nl](/nl/frocole_install_module) | [sitemap](/nl/sitemap)
 
 # Installatie Frocole beheer module voor Drupal 9[^1]
 

@@ -1,4 +1,4 @@
-[en](\frocole_references) | [nl](\frocole_references)
+[en](/frocole_references) | [nl](/frocole_references)
 
 # Referenties
 

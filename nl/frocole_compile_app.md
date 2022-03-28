@@ -1,4 +1,4 @@
-[en](\en\frocole_compile_app) | [nl](\nl\frocole_compile_app) | [sitemap](\nl\sitemap)
+[en](/en/frocole_compile_app) | [nl](/nl/frocole_compile_app) | [sitemap](/nl/sitemap)
 
 # Compileren van de Frocole App
 

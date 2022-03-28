@@ -1,4 +1,4 @@
-[en](\en\frocole_install_drupal9) | [nl](\nl\frocole_install_drupal9) | [sitemap](\en\sitemap)
+[en](/en/frocole_install_drupal9) | [nl](/nl/frocole_install_drupal9) | [sitemap](/en/sitemap)
 
 # Installation Drupal 9[^1]
 

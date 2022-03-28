@@ -1,4 +1,4 @@
-[en](\en\about) | [nl](\nl\about) | [sitemap](\nl\sitemap)
+[en](/en/about) | [nl](/nl/about) | [sitemap](/nl/sitemap)
 
 # Over Frocole
 
