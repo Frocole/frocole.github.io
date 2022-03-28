@@ -6,5 +6,5 @@ TODO
 
 ## Links
 
-- [Management Tasks](\en\frocole_tasks_administrator)
-- [Teacher Tasks](\en\frocole_tasks_teacher)
+- [Management Tasks](/en/frocole_tasks_administrator)
+- [Teacher Tasks](/en/frocole_tasks_teacher)
