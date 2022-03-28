@@ -8,6 +8,12 @@
     Als resultaat is het hierdoor niet nogelijk om via de app het wachtwoord de resetten.
     Beide apps hebben geen email adres nodig.    
 ```
+- Unity
+```
+    Bij testen van Frcole in de Unity3D omgeving moet de invoer van de server naam 
+    afgesloten worden met de <enter> toets. Gebruik van de muis om naar het volgende 
+    invulveld te komen slaat de server URL validatie code over.
+```
 - Frocole software licentie: [GPL-3.0 licentie](https://github.com/Frocole/frocole.github.io/blob/main/LICENSE)
 ```
     Feedback and Reflection in Online Collaborative Learning.
