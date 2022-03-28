@@ -23,7 +23,7 @@ Installation omvat 3 stappen:
 ```
 en vervang in bovenstaande de gemarkeerde stukken door de correcte waarden ( b.v. vervang "<frocole_database_name>" -> "frocole" ). De waarden zijn gelijk aan die in de frocole_db.ini file.
 
-Een alternatief is om onderstaande code toe te voegen:
+    Een alternatief is om onderstaande code toe te voegen:
 ```
     # If nessersary adjust the path to the frocole_db.ini file.
     $frocole = parse_ini_file($_SERVER['DOCUMENT_ROOT'] . "/../frocole_db.ini", TRUE);
@@ -39,7 +39,7 @@ Een alternatief is om onderstaande code toe te voegen:
       'driver' => 'mysql',
     );
 ```
-Bovenstaande code leest de database connectie gegevens direkt uit de frocole_db.ini.
+    Bovenstaande code leest de database connectie gegevens direkt uit de frocole_db.ini.
 - Hierna kan de Frocole Module aangezet worden binnen Drupal via de beheer URL: '/admin/modules' .
 - Na activering van de module kunnen de Frocole Services beheerd worden via de link '/admin/frocole/index' binnen Drupal 9. Deze url is het startpunt vanwaar de database van de Frocole Web Services te beheren is. 
 - Deze pagina bevat naast de mogelijkeid om cursussen toe te voegen, te wijzigen en te verwijderen ook het exporteren van groepsdata, het beheren van additionele info voor in de app en het segmenteren van de gebruikers in kleinere groepen.
