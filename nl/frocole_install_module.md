@@ -3,7 +3,7 @@
 # Installatie Frocole beheer module voor Drupal 9[^1]
 
 De Frocole beheer module is getest met Drupal 9.2.x maar zou compatible moeten zijn met zowel Drupal 9.3.x en Drupal 8.
-De Frocole beheer module voor Drupal 9 moet staan in een /modules/custom folder. De frocole.install files staat aldus in de /modules/custom/frocole folder.
+De Frocole beheer module voor Drupal 9 moet staan in een /modules/custom folder. De frocole.install files staat aldus in de /modules/custom/frocole folder binnen de Drupal installatie.
 
 Installation omvat 3 stappen:
 
@@ -21,7 +21,7 @@ Installation omvat 3 stappen:
       "driver" => "mysql",
     );
 ```
-en vervang in bovenstaande de gemarkeerde stukken door de correcte waarden ( b.v. vervang "<frocole_database_name>" -> "frocole" ).
+en vervang in bovenstaande de gemarkeerde stukken door de correcte waarden ( b.v. vervang "<frocole_database_name>" -> "frocole" ). De waarden zijn gelijk aan die in de frocole_db.ini file.
 - Hierna kan de Frocole Module aangezet worden binnen Drupal via de beheer URL: '/admin/modules' .
 - Na activering van de module kunnen de Frocole Services beheerd worden via de '/admin/frocole/index' link binnen Drupal 9. Deze url is het startpunt vanwaar de database van de Frocole Web Services te beheren is. Deze pagina bevat naast de mogelijkeid om cursussen toe te voegen, te wijzigen en te verwijderen ook het exporteren van groepsdata, het beheren van additionele info voor in de app en het segmenteren van de gebruikers in kleinere groepen.
 - Als een cursus bekeken wordt, dan krijgt men ook een lijst van groepen en studenten binnen deze groepen van een cursus te zien. De links met de ID's van de groepen dienen voor de export naar CSV formaat, compatibel met Microsoft Excel®.
