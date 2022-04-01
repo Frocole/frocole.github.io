@@ -4,9 +4,9 @@
 
 De werkzaamheden van de beheerder omvatten de volgende taken:
 
-- Aanmaken, bewerken en verwijderen van segmenten in samenspraak met docenten.
-- Na aanmaken van een segment moet de docenten (vooraf) een eigen account aan te maken en de benodigde performance indicatoren aan te leveren.
-- Aanmaken, bewerken en verwijderen van cursussen binnen een segment in samenspraak met docenten.
+- Het aanmaken, bewerken en verwijderen van segmenten in samenspraak met docenten. 
+- De door de docent aangeleverde performance indicatoren invoeren.
+- Het aanmaken, bewerken en verwijderen van cursussen binnen een segment in samenspraak met docenten.
 - Koppelen van een docent aan een cursus (onderdeel van het aanmaken van een cursus).
 - Activeren van een cursus.
 - Exporteren van data van een groep.
