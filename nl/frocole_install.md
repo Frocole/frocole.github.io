@@ -10,7 +10,7 @@ De Frocole server software bestaat uit de volgende 3 onderdelen:
 
 Voordat de Drupal beheer module geïnstalleerd en geactiveerd kan worden in Drupal 9 moeten eerst de Frocole services geïnstalleerd worden op de webserver, bij voorkeur in een sub folder. Uit veiligheidsoverwegingen is het aan te bevelen om de Frocole services gebruik te laten maken van een separate (MySQL) database.
 
-Daarna kan Drupal 9 geïnstalleerd worden en een link met de separate Frocole database.
+Daarna kan Drupal 9 geïnstalleerd worden en gelinkt worden met de separate Frocole database.
 
 Als laatste kan dan de Frocole beheer module geïnstalleerd en geactiveerd worden.
 
