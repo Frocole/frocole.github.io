@@ -6,7 +6,7 @@ Het Frocole systeem bestaat uit een App, voor zowel iOS als Android, die student
 
 Voor het beschikbaarstellen van informatie over Frocole en het beheer van cursussen binnen Frocole wordt een Drupal 9 [^1] installatie gebruikt. Voor het beheeraspect is een Frocole Module voor Durpal 9 ontwikkelt, die toegang heeft tot de Frocole Database die gebruikt wordt door de Frocole Services. Via deze beheer tools kunnen cursussen worden aangemaakt en geconfigureerd worden en kan data worden geexporteerd in een Microsoft Excel [^2] compatibel formaat.
 
-![image](https://user-images.githubusercontent.com/1768983/158581038-e14b9e59-9b0d-4d1f-9627-fb80f63078b7.png)
+![Frocole System](https://user-images.githubusercontent.com/1768983/161252485-51f02963-ed1a-435f-bd8a-c7144a88be7b.png)
 
 # Repositories
 
