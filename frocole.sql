@@ -32,7 +32,7 @@ CREATE TABLE `courses` (
   `CourseName` varchar(20) NOT NULL COMMENT 'Non-unique group Nickname',
   `IPF_RD_parameters` varchar(255) NOT NULL COMMENT 'A set of up to 5 parameters on which peers can review each other',
   `GPF_RD_parameters` varchar(255) NOT NULL COMMENT 'A set of up to 5 parameters on which peers can review their collaborative product',
-  `PPF_RD_parameters` varchar(255) NOT NULL COMMENT 'A set of up to 5 parameters on performane',
+  `PF_RD_parameters` varchar(255) NOT NULL COMMENT 'A set of up to 5 parameters on performance',
   `LeraarUserID` int(11) NOT NULL,
   `CourseActive` tinyint(1) NOT NULL,
   `SegmentID` int(11) NOT NULL,
