@@ -2,7 +2,7 @@
 
 # Installatie Frocole services
 
-De Frocole App communiceert met de server door middel van een set PHP web services. Daarnaast is er een Drupal 9 gebaseerde beheer omgeving voor o.a. het aanmaken van cursussen.
+De Frocole App communiceert met de server door middel van een set PHP web services. Daarnaast is er een Drupal 10 gebaseerde beheer omgeving voor o.a. het aanmaken van cursussen.
 
 De Frocole services kunnen eenvoudig geïnstalleerd worden door de files te kopiëren naar een separate folder op de webserver (b.v. ‘/frocole/’) [^1].
 

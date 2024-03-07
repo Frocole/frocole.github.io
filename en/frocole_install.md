@@ -7,5 +7,5 @@ TODO
 # Links
 
 - [Frocole Services Installatie](/en/frocole_install_services)
-- [Frocole Drupal 9 Installatie](/en/frocole_install_drupal9)
-- [Frocole Drupal 9 Beheermodule Installatie](/en/frocole_install_module)
+- [Frocole Drupal 10 Installatie](/en/frocole_install_drupal10)
+- [Frocole Drupal 10 Beheermodule Installatie](/en/frocole_install_module)
