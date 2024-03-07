@@ -42,7 +42,7 @@ De installatie omvat 3 stappen:
     Bovenstaande code leest de database connectie gegevens direct uit de frocole_db.ini.
 - Zet de Frocole Module aan binnen Drupal via de beheer URL: ‘/admin/modules’.
 
-Na activering van de module moet er binnen Drupal via de beheer URL: ‘/admin/people/roles’ een rol gecreerd worden met de naam ‘Frocole beheerder’ en een bijbehorende machine naam ‘frocole_beheerder’. Deze rol moet minimaal worden toegekend alle accounts die mogen beheren maar minmaal aan de Drupal admin op de URL: ‘/user/1/edit’.
+Na activering van de module moet er binnen Drupal via de beheer URL: ‘/admin/people/roles’ een rol gecreëerd worden met de naam ‘Frocole beheerder’ en een bijbehorende machine naam ‘frocole_beheerder’. Deze rol moet worden toegekend aan alle accounts die mogen beheren maar minmaal aan de Drupal admin op de URL: ‘/user/1/edit’.
 
 Na het toekennen van de ‘Frocole beheerder’ rol kunnen de Frocole Services beheerd worden via de link ‘/admin/frocole/index’ binnen Drupal 10. Deze url is het startpunt vanwaar de database van de Frocole Web Services te beheren is. Deze pagina bevat naast de mogelijkheid om cursussen toe te voegen, te wijzigen en te verwijderen ook de mogelijkheid voor het exporteren van groepsdata, het beheren van additionele info voor in de app en het segmenteren van de gebruikers in kleinere groepen.
 
